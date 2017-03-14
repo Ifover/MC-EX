@@ -1,7 +1,11 @@
 [帮助]
 ===
-![baidu](https://github.com/Ifover/MC-EX/blob/master/LoginFrm.png "登录窗口") 
-和网页登录一样,你可以选择快速登录或者账号密码登录
+[登录界面]
+---
+![LoginFrm](https://github.com/Ifover/MC-EX/blob/master/Images/LoginFrm.png "登录窗口") <br>
+和网页登录一样,你可以选择快速登录或者账号密码登录<br>
+![LoginSucceed](https://github.com/Ifover/MC-EX/blob/master/Images/LoginSucceed.png "交换窗口") <br>
+登录成功后即可在左侧[选择套卡]后,选择需要的卡片进行[开始搜索]<br>
 
 [更新]
 ===
@@ -9,7 +13,7 @@
 修复换卡时的一些小问题(真的是小问题)<br> 
 移除送礼物系统<br> 
 ######[15-08-21]<br> 
-修复退出不完全<br> 
+修复退出后后台滞留的问题<br> 
 自动切换活动套卡的搜索对象<br> 
 细节改正<br> 
 ######[15-08-12]<br> 
@@ -20,9 +24,9 @@
 修复所要套卡下拉框错误<br> 
 ######[15-06-16]<br> 
 修复找到卡片后需要等待的问题<br> 
-修复切换账号控件全无的问题<br> 
+修复切换账号界面显示的问题<br> 
 ######[15-05-29]<br> 
-修复所要套卡下拉框的文本同步<br> 
+修复所要套卡下拉框的文本不同步问题<br> 
 修复更新程序<br> 
 ######[15-05-26]<br> 
 增加在指定的套卡中搜索<br> 
