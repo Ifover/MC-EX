@@ -6,6 +6,7 @@
 和网页登录一样,你可以选择快速登录或者账号密码登录<br>
 ![LoginSucceed](https://github.com/Ifover/MC-EX/blob/master/Images/LoginSucceed.png "交换窗口") <br>
 登录成功后即可在左侧[选择套卡]后,选择需要的卡片进行[开始搜索]<br>
+![exChange](https://github.com/Ifover/MC-EX/blob/master/Images/exChange.gif "演示")
 
 [更新]
 ===
