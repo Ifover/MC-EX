@@ -4,14 +4,12 @@
 ---
 ![LoginFrm](https://github.com/Ifover/MC-EX/blob/master/Images/LoginFrm.png "登录窗口") <br>
 和网页登录一样,你可以选择快速登录或者账号密码登录<br>
-/*![LoginSucceed](https://github.com/Ifover/MC-EX/blob/master/Images/LoginSucceed.png "交换窗口") <br>
-登录成功后即可在左侧[选择套卡]后,选择需要的卡片进行[开始搜索]<br>*/
 ![exChangeNew](https://github.com/Ifover/MC-EX/blob/master/Images/exChangeNew.gif "演示")<br>
 登录成功后即可在左侧[选择套卡]后,选择需要的卡片进行[开始搜索]<br>
 [更新]
 ===
-[15-11-11]<br>
-修复换卡时的一些小问题(真的是小问题)<br>
+~~[15-11-11]~~<br>
+~~修复换卡时的一些小问题(真的是小问题)<br>
 移除送礼物系统<br>
 [15-08-21]<br>
 修复退出后后台滞留的问题<br>
