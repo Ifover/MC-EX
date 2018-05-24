@@ -47,5 +47,3 @@
 ~~修正搜索判断~~<br> 
 ~~[15-04-25]~~<br> 
 ~~修正了更新程序~~<br> 
-![Alipay](https://github.com/Ifover/MC-EX/blob/master/Images/Alipay.jpg "使用Alipay支付")
-![WeChat](https://github.com/Ifover/MC-EX/blob/master/Images/WeChat.jpg "使用WeChat支付")<br>
