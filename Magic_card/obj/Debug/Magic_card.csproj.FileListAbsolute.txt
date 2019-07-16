@@ -1,0 +1,34 @@
+C:\Users\Ifover\Desktop\Magic_card\Magic_card\bin\Debug\MC-EX.exe.config
+C:\Users\Ifover\Desktop\Magic_card\Magic_card\bin\Debug\MC-EX.exe
+C:\Users\Ifover\Desktop\Magic_card\Magic_card\bin\Debug\MC-EX.pdb
+C:\Users\Ifover\Desktop\Magic_card\Magic_card\obj\Debug\Magic_card.csprojResolveAssemblyReference.cache
+C:\Users\Ifover\Desktop\Magic_card\Magic_card\obj\Debug\Magic_card.frmAbout.resources
+C:\Users\Ifover\Desktop\Magic_card\Magic_card\obj\Debug\Magic_card.frmEx.resources
+C:\Users\Ifover\Desktop\Magic_card\Magic_card\obj\Debug\Magic_card.frmLogin.resources
+C:\Users\Ifover\Desktop\Magic_card\Magic_card\obj\Debug\Magic_card.Properties.Resources.resources
+C:\Users\Ifover\Desktop\Magic_card\Magic_card\obj\Debug\Magic_card.csproj.GenerateResource.Cache
+C:\Users\Ifover\Desktop\Magic_card\Magic_card\obj\Debug\MC-EX.exe
+C:\Users\Ifover\Desktop\Magic_card\Magic_card\obj\Debug\MC-EX.pdb
+C:\Users\Ifover\OneDrive\Graduation Project\Magic_card\Magic_card\bin\Debug\MC-EX.exe.config
+C:\Users\Ifover\OneDrive\Graduation Project\Magic_card\Magic_card\obj\Debug\MC-EX.exe
+C:\Users\Ifover\OneDrive\Graduation Project\Magic_card\Magic_card\obj\Debug\MC-EX.pdb
+C:\Users\Ifover\OneDrive\Graduation Project\Magic_card\Magic_card\bin\Debug\MC-EX.exe
+C:\Users\Ifover\OneDrive\Graduation Project\Magic_card\Magic_card\bin\Debug\MC-EX.pdb
+C:\Users\Ifover\OneDrive\Graduation Project\Magic_card\Magic_card\obj\Debug\Magic_card.csprojResolveAssemblyReference.cache
+C:\Users\Ifover\OneDrive\Graduation Project\Magic_card\Magic_card\obj\Debug\Magic_card.frmAbout.resources
+C:\Users\Ifover\OneDrive\Graduation Project\Magic_card\Magic_card\obj\Debug\Magic_card.frmEx.resources
+C:\Users\Ifover\OneDrive\Graduation Project\Magic_card\Magic_card\obj\Debug\Magic_card.frmLogin.resources
+C:\Users\Ifover\OneDrive\Graduation Project\Magic_card\Magic_card\obj\Debug\Magic_card.Properties.Resources.resources
+C:\Users\Ifover\OneDrive\Graduation Project\Magic_card\Magic_card\obj\Debug\Magic_card.csproj.GenerateResource.Cache
+F:\OneDrive\Graduation Project\Magic_card\Magic_card\bin\Debug\MC-EX.exe.config
+F:\OneDrive\Graduation Project\Magic_card\Magic_card\bin\Debug\MC-EX.exe
+F:\OneDrive\Graduation Project\Magic_card\Magic_card\bin\Debug\MC-EX.pdb
+F:\OneDrive\Graduation Project\Magic_card\Magic_card\obj\Debug\Magic_card.csprojResolveAssemblyReference.cache
+F:\OneDrive\Graduation Project\Magic_card\Magic_card\obj\Debug\Magic_card.frmAbout.resources
+F:\OneDrive\Graduation Project\Magic_card\Magic_card\obj\Debug\Magic_card.frmEx.resources
+F:\OneDrive\Graduation Project\Magic_card\Magic_card\obj\Debug\Magic_card.frmLogin.resources
+F:\OneDrive\Graduation Project\Magic_card\Magic_card\obj\Debug\Magic_card.Properties.Resources.resources
+F:\OneDrive\Graduation Project\Magic_card\Magic_card\obj\Debug\Magic_card.csproj.GenerateResource.Cache
+F:\OneDrive\Graduation Project\Magic_card\Magic_card\obj\Debug\Magic_card.csproj.CoreCompileInputs.cache
+F:\OneDrive\Graduation Project\Magic_card\Magic_card\obj\Debug\MC-EX.exe
+F:\OneDrive\Graduation Project\Magic_card\Magic_card\obj\Debug\MC-EX.pdb
